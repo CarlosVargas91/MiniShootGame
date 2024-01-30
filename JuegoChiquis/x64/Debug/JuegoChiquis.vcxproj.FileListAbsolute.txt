@@ -1,0 +1,5 @@
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\x64\Debug\JuegoChiquis.vcxproj.AssemblyReference.cache
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\x64\Debug\JuegoChiquis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\x64\Debug\JuegoChiquis.Avanzado.resources
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\x64\Debug\JuegoChiquis.Cuarentena.resources
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\x64\Debug\JuegoChiquis.vcxproj.GenerateResource.cache

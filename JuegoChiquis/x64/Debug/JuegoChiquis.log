@@ -1,0 +1,29 @@
+﻿  Avanzado.cpp
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(32,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(32,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(33,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(33,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(34,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(34,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(35,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(35,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Arreglo_BalaJugador.h(34,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Arreglo_BalaJugador.h(34,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Saludable.h(46,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Saludable.h(46,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Cuarentena.cpp
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(32,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(32,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(33,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(33,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(34,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(34,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(35,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Bala_Jugador.h(35,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Arreglo_BalaJugador.h(34,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Arreglo_BalaJugador.h(34,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Saludable.h(46,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\JuegoChiquis\Saludable.h(46,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Avanzado.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  JuegoChiquis.vcxproj -> C:\Users\carlos.vargas.godine\Documents\UdemyGame2D\Code\JuegoChiquis\x64\Debug\JuegoChiquis.exe
